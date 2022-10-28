@@ -1,6 +1,10 @@
-<center><h2>RFM Analysis of FLO Dataset</h2></center>
+<div style="font-style: bold; text-align: center;" markdown="1">
 
----
+## RFM Analysis of FLO Dataset
+
+</div>
+
+--- 
 
 ### Problem
 FLO wants to put its customers into segments and determine marketing strategies 
